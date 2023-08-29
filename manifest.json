@@ -1,0 +1,17 @@
+{
+    "name": "GenAI Chrome Extension",
+    "version": "1.0.0",
+    "description": "Simple chrome extension to communicate to backend api",
+    "manifest_version": 3,
+    "author": "Pankaj Shivnani",
+    "action":{
+        "default_popup": "./ui/index.html",
+        "default_title": "My Chrome Extension",
+        "default_icon": {
+            "48": "./ui/assets/images/icons8-chatgpt-48.png"
+        }
+    },
+    "icons": {
+        "48": "./ui/assets/images/icons8-chatgpt-48.png"
+    }
+}
