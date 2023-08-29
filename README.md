@@ -20,6 +20,11 @@ npm install cors
 ```
 
 3.  Clone the Git repository using git clone command.
+
+```
+git clone https://github.com/pankajshivnani2001/gpt-chrome-extension
+```
+
 4.  Navigate to the api directory in the repository and run the following command to start the node server responsible for our API:
 
 ```
